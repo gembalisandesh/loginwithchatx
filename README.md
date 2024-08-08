@@ -48,4 +48,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any inquiries or issues, please contact us at loginwithchatx@example.com.
+For any inquiries or issues, please contact us at gembalisandeshkumar@gmail.com.
